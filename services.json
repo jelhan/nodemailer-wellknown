@@ -71,6 +71,11 @@
         "port": 25
     },
 
+    "Hetzner": {
+        "host": "mail.your-server.de",
+	"port": 587
+    },
+
     "hot.ee": {
         "host": "mail.hot.ee"
     },

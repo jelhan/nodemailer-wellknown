@@ -37,6 +37,7 @@ Service names are case insensitive
   * **'Godaddy'**
   * **'GodaddyAsia'**
   * **'GodaddyEurope'**
+  * **'Hetzner'**
   * **'hot.ee'**
   * **'Hotmail'**
   * **'iCloud'**
